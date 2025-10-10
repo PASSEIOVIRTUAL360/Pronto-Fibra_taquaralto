@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="21009" hassounds="0" start="node1" appversion="7.1.10">
+  <panorama id="node1">
+    <input leveltilesize="510" levelbias="0.400" levelingpitch="0" height="1472" levelbiashidpi="1.000" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="1472" levelingroll="0">
+      <level preload="0" predecode="0" width="1472" height="1472"/>
+      <level preload="0" predecode="0" width="736" height="736"/>
+      <level preload="1" predecode="1" width="368" height="368"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="97.4185">
+      <start tilt="0" fov="100" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="330" fov="140" fovfisheye="360" scaletofit="1" pan="360"/>
+    </view>
+    <userdata heading="97.4185" description="" source="" comment="" tags="PRONTOFIBRA-LojaTaquaralto" customnodeid="" title=" " author="" datetime="27/08/2025 17:51" longitude="-48.29469357" info="" latitude="-10.33675832" nodeid="node1" copyright=""/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label borderradius="1" wordwrap="1" backgroundcolor="0xffffff" height="20" enabled="1" textcolor="0x000000" borderalpha="1" textalpha="1" bordercolor="0x000000" background="1" backgroundalpha="1" border="1" width="180"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="0"/>
+      <hotspot description="" skinid="ht_node" title=" " target="$fwd" url="{node2}" pan="-10.1857" tilt="0" id="Point01" distance="4.51485"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" zoomin="7" zoomafterinfov="140" zoomfov="40" zoomoutpause="1" enabled="1" softedge="0" blendtime="1" zoomafteroutfov="40" blendcolor="0x000000" zoomspeed="2" delay="none" type="mesh"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
+    <control zoomcentercursor="1" lockedkeyboardzoom="0" invertcontrol="1" lockedwheel="0" contextvr="1" dblclickfullscreen="0" rubberband="0" simulatemass="1" lockedmouse="0" contextprojections="0" lockedkeyboard="0" sensitivity="8" invertwheel="0" speedwheel="1" contextfullscreen="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input leveltilesize="510" levelbias="0.400" levelingpitch="0" height="1472" levelbiashidpi="1.000" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="1472" levelingroll="0">
+      <level preload="0" predecode="0" width="1472" height="1472"/>
+      <level preload="0" predecode="0" width="736" height="736"/>
+      <level preload="1" predecode="1" width="368" height="368"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-237.73">
+      <start tilt="0" fov="100" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="330" fov="140" fovfisheye="360" scaletofit="1" pan="360"/>
+    </view>
+    <userdata heading="-237.73" description="" source="" comment="" tags="PRONTOFIBRA-LojaTaquaralto" customnodeid="" title=" " author="" datetime="25/06/2025 10:22" longitude="-48.29465423" info="" latitude="-10.33677060" nodeid="node2" copyright=""/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label borderradius="1" wordwrap="1" backgroundcolor="0xffffff" height="20" enabled="1" textcolor="0x000000" borderalpha="1" textalpha="1" bordercolor="0x000000" background="1" backgroundalpha="1" border="1" width="180"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="0"/>
+      <hotspot description="" skinid="ht_node" title=" " target="$fwd" url="{node1}" pan="-165.334" tilt="0" id="Point01" distance="4.51485"/>
+      <hotspot description="" skinid="ht_node" title=" " target="$fwd" url="{node3}" pan="-352.047" tilt="0" id="Point02" distance="4.25302"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" zoomin="7" zoomafterinfov="140" zoomfov="40" zoomoutpause="1" enabled="1" softedge="0" blendtime="1" zoomafteroutfov="40" blendcolor="0x000000" zoomspeed="2" delay="none" type="mesh"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
+    <control zoomcentercursor="1" lockedkeyboardzoom="0" invertcontrol="1" lockedwheel="0" contextvr="1" dblclickfullscreen="0" rubberband="0" simulatemass="1" lockedmouse="0" contextprojections="0" lockedkeyboard="0" sensitivity="8" invertwheel="0" speedwheel="1" contextfullscreen="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input leveltilesize="510" levelbias="0.400" levelingpitch="0" height="1472" levelbiashidpi="1.000" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="1472" levelingroll="0">
+      <level preload="0" predecode="0" width="1472" height="1472"/>
+      <level preload="0" predecode="0" width="736" height="736"/>
+      <level preload="1" predecode="1" width="368" height="368"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-233.019">
+      <start tilt="0" fov="100" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="330" fov="140" fovfisheye="360" scaletofit="1" pan="360"/>
+    </view>
+    <userdata heading="-233.019" description="" source="" comment="" tags="PRONTOFIBRA-LojaTaquaralto" customnodeid="" title=" " author="" datetime="25/06/2025 10:28" longitude="-48.29461880" info="" latitude="-10.33678635" nodeid="node3" copyright=""/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label borderradius="1" wordwrap="1" backgroundcolor="0xffffff" height="20" enabled="1" textcolor="0x000000" borderalpha="1" textalpha="1" bordercolor="0x000000" background="1" backgroundalpha="1" border="1" width="180"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="0"/>
+      <hotspot description="" skinid="ht_node" title=" " target="$fwd" url="{node2}" pan="-167.336" tilt="0" id="Point01" distance="4.25302"/>
+      <hotspot description="" skinid="ht_node" title=" " target="$fwd" url="{node4}" pan="-375.688" tilt="0" id="Point02" distance="4.47357"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" zoomin="7" zoomafterinfov="140" zoomfov="40" zoomoutpause="1" enabled="1" softedge="0" blendtime="1" zoomafteroutfov="40" blendcolor="0x000000" zoomspeed="2" delay="none" type="mesh"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
+    <control zoomcentercursor="1" lockedkeyboardzoom="0" invertcontrol="1" lockedwheel="0" contextvr="1" dblclickfullscreen="0" rubberband="0" simulatemass="1" lockedmouse="0" contextprojections="0" lockedkeyboard="0" sensitivity="8" invertwheel="0" speedwheel="1" contextfullscreen="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input leveltilesize="510" levelbias="0.400" levelingpitch="0" height="1472" levelbiashidpi="1.000" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="1472" levelingroll="0">
+      <level preload="0" predecode="0" width="1472" height="1472"/>
+      <level preload="0" predecode="0" width="736" height="736"/>
+      <level preload="1" predecode="1" width="368" height="368"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-179.939">
+      <start tilt="0" fov="100" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="330" fov="140" fovfisheye="360" scaletofit="1" pan="360"/>
+    </view>
+    <userdata heading="-179.939" description="" source="" comment="" tags="PRONTOFIBRA-LojaTaquaralto" customnodeid="" title=" " author="" datetime="25/06/2025 10:23" longitude="-48.29459400" info="" latitude="-10.33681834" nodeid="node4" copyright=""/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label borderradius="1" wordwrap="1" backgroundcolor="0xffffff" height="20" enabled="1" textcolor="0x000000" borderalpha="1" textalpha="1" bordercolor="0x000000" background="1" backgroundalpha="1" border="1" width="180"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="0"/>
+      <hotspot description="" skinid="ht_node" title=" " target="$fwd" url="{node3}" pan="-142.608" tilt="0" id="Point01" distance="4.47357"/>
+      <hotspot description="" skinid="ht_node" title=" " target="$fwd" url="{node5}" pan="-259.802" tilt="0" id="Point02" distance="4.11274"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" zoomin="7" zoomafterinfov="140" zoomfov="40" zoomoutpause="1" enabled="1" softedge="0" blendtime="1" zoomafteroutfov="40" blendcolor="0x000000" zoomspeed="2" delay="none" type="mesh"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
+    <control zoomcentercursor="1" lockedkeyboardzoom="0" invertcontrol="1" lockedwheel="0" contextvr="1" dblclickfullscreen="0" rubberband="0" simulatemass="1" lockedmouse="0" contextprojections="0" lockedkeyboard="0" sensitivity="8" invertwheel="0" speedwheel="1" contextfullscreen="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input leveltilesize="510" levelbias="0.400" levelingpitch="0" height="1472" levelbiashidpi="1.000" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="1472" levelingroll="0">
+      <level preload="0" predecode="0" width="1472" height="1472"/>
+      <level preload="0" predecode="0" width="736" height="736"/>
+      <level preload="1" predecode="1" width="368" height="368"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-160.452">
+      <start tilt="0" fov="100" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="330" fov="140" fovfisheye="360" scaletofit="1" pan="360"/>
+    </view>
+    <userdata heading="-160.452" description="" source="" comment="" tags="PRONTOFIBRA-LojaTaquaralto" customnodeid="" title=" " author="" datetime="25/06/2025 10:25" longitude="-48.29455699" info="" latitude="-10.33681183" nodeid="node5" copyright=""/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label borderradius="1" wordwrap="1" backgroundcolor="0xffffff" height="20" enabled="1" textcolor="0x000000" borderalpha="1" textalpha="1" bordercolor="0x000000" background="1" backgroundalpha="1" border="1" width="180"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="0"/>
+      <hotspot description="" skinid="ht_node" title=" " target="$fwd" url="{node4}" pan="-60.3146" tilt="0" id="Point01" distance="4.11274"/>
+      <hotspot description="" skinid="ht_node" title=" " target="$fwd" url="{node6}" pan="-268.696" tilt="0" id="Point02" distance="4.54271"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" zoomin="7" zoomafterinfov="140" zoomfov="40" zoomoutpause="1" enabled="1" softedge="0" blendtime="1" zoomafteroutfov="40" blendcolor="0x000000" zoomspeed="2" delay="none" type="mesh"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
+    <control zoomcentercursor="1" lockedkeyboardzoom="0" invertcontrol="1" lockedwheel="0" contextvr="1" dblclickfullscreen="0" rubberband="0" simulatemass="1" lockedmouse="0" contextprojections="0" lockedkeyboard="0" sensitivity="8" invertwheel="0" speedwheel="1" contextfullscreen="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input leveltilesize="510" levelbias="0.400" levelingpitch="0" height="1472" levelbiashidpi="1.000" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="1472" levelingroll="0">
+      <level preload="0" predecode="0" width="1472" height="1472"/>
+      <level preload="0" predecode="0" width="736" height="736"/>
+      <level preload="1" predecode="1" width="368" height="368"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-108.947">
+      <start tilt="0" fov="100" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="330" fov="140" fovfisheye="360" scaletofit="1" pan="360"/>
+    </view>
+    <userdata heading="-108.947" description="" source="" comment="" tags="PRONTOFIBRA-LojaTaquaralto" customnodeid="" title=" " author="" datetime="25/06/2025 10:25" longitude="-48.29451755" info="" latitude="-10.33682462" nodeid="node6" copyright=""/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label borderradius="1" wordwrap="1" backgroundcolor="0xffffff" height="20" enabled="1" textcolor="0x000000" borderalpha="1" textalpha="1" bordercolor="0x000000" background="1" backgroundalpha="1" border="1" width="180"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="0"/>
+      <hotspot description="" skinid="ht_node" title=" " target="$fwd" url="{node5}" pan="-37.1913" tilt="0" id="Point01" distance="4.54271"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" zoomin="7" zoomafterinfov="140" zoomfov="40" zoomoutpause="1" enabled="1" softedge="0" blendtime="1" zoomafteroutfov="40" blendcolor="0x000000" zoomspeed="2" delay="none" type="mesh"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
+    <control zoomcentercursor="1" lockedkeyboardzoom="0" invertcontrol="1" lockedwheel="0" contextvr="1" dblclickfullscreen="0" rubberband="0" simulatemass="1" lockedmouse="0" contextprojections="0" lockedkeyboard="0" sensitivity="8" invertwheel="0" speedwheel="1" contextfullscreen="1" hideabout="0"/>
+  </panorama>
+  <masternode>
+    <userdata description="" tags="" comment="" title="" author="" copyright=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
